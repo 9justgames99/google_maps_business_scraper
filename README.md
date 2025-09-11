@@ -83,7 +83,8 @@ pandas
 openpyxl
 undetected-chromedriver
 selenium
-```Now, install the dependencies:
+```
+Now, install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -122,9 +123,3 @@ The project is built with a simple two-part structure: a frontend for user inter
 Contributions are welcome! If you have ideas for new features, find a bug, or want to improve the code, please feel free to:
 1.  Open an issue to discuss the change.
 2.  Fork the repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.

@@ -27,12 +27,12 @@ The application is designed for simplicity. The entire workflow is managed throu
 ### Initial View
 When you first launch the app, you are presented with a simple form to configure your scrape.
 
-![Initial User Interface](assets/ui-empty.png)
+![Initial User Interface](assets/maps1.png)
 
 ### Results View
 After the scraping process is complete, the data is displayed in a table, with a clear download button ready.
 
-![Scraping Results View](assets/ui-results.png)
+![Scraping Results View](assets/maps2.png)
 
 > **Note:** To add your own images, create an `assets` folder in the root of your project directory. Take screenshots of your running application and save them as `ui-empty.png` and `ui-results.png` inside the `assets` folder.
 
